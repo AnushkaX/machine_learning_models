@@ -20,3 +20,11 @@ In this script you can find the codes for,
   6. XGBoost Classifier
       - Printing Tree in graphical format
   7. Random Forest Classifier
+
+**Required datasets are uploaded to this repository itself. Feel free to contact me for any references.**
+
+Profile links 
+
+- [Facebook](https://www.facebook.com/muthusinghe/)
+
+- [Linkedin](https://www.linkedin.com/in/muthusinghe/)
